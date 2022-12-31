@@ -48,7 +48,7 @@
       </div>
     </div>
   <?php unset($_SESSION["flash"]) ?>
-
+  <?php endif ?>
 
   <main>
     <!-- Content Here -->
